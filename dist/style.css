@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Game of Thrones';
+  src: url("./Game of Thrones.ttf"); }
+body {
+  width: 100%;
+  color: cornsilk;
+  height: 100vh;
+  background: linear-gradient(rgba(49, 61, 65, 0.4), rgba(49, 61, 65, 0.4)), url(./bg-img.jpg) no-repeat center center;
+  background-size: cover;
+  font-family: "Game of Thrones", "sans-serif"; }
+  body .site-container {
+    margin-top: 20%;
+    text-align: center; }
+    body .site-container #quote {
+      padding: 50px; }
+
+/*# sourceMappingURL=style.css.map */
